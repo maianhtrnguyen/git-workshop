@@ -200,7 +200,7 @@ Release
 
 In this section, we will see how git handles changes to a repository that are not made locally. These features aloow multiple people to collaborate on the same project simultaeously.  
 
-1. Edit this Readme on Github.
+1. Edit this Readme on Github
 
 2. Pull the changes to your local respository. It should look something like the following:
 
