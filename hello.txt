@@ -1,1 +1,1 @@
-This is a fun message!
+This is not a fun message!
